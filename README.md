@@ -7,3 +7,5 @@ goood
 I wanted to add some lines here
 
 And to add some lines here from Github now !
+
+Now lines from Rstudio, but I hink I gto it 
